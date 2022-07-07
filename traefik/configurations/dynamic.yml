@@ -4,4 +4,4 @@ http:
     user-auth:
       basicAuth:
         users:
-          - "user:$2y$12$QRVlY/GTp1.D.tuaMvICt.yyQ1F8WmY2uwDyJ7kMG2XlIEu6jUKCm"
+          - "user:$2y$10$MUSGF70ni8fLlKI6wze3RePRMpitjsMrf.Nyqc/PT/G9rLTsVMRV." #user|changeme
